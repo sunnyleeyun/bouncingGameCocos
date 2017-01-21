@@ -1,8 +1,8 @@
-﻿<Properties StartupConfiguration="{B7CB166F-0DFC-4FAD-86CE-A12BCA469F6B}|Default">
+﻿<Properties StartupConfiguration="{0C57DC8E-F0A5-44E5-A991-18D1546C4346}|Default">
   <MonoDevelop.Ide.ItemProperties.bouncingGame.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.92D2E570-63DD-4AA0-B18E-3C29E752DEA8" />
   <MonoDevelop.Ide.Workbench ActiveDocument="bouncingGame/GameLayer.cs">
     <Files>
-      <File FileName="bouncingGame/GameLayer.cs" Line="11" Column="44" />
+      <File FileName="bouncingGame/GameLayer.cs" Line="21" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,4 +10,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.bouncingGame.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
 </Properties>

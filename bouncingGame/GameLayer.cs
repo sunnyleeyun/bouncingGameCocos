@@ -15,7 +15,7 @@ namespace bouncingGame
 
 
 			// "paddle" refers to the paddle.png image
-			paddleSprite = new CCSprite("paddle");
+			paddleSprite = new CCSprite("paddle.png");
 			paddleSprite.PositionX = 100;
 			paddleSprite.PositionY = 100;
 			AddChild(paddleSprite);

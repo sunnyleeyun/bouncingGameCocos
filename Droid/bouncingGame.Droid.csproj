@@ -124,7 +124,7 @@
     <AndroidResource Include="Resources\drawable-xxhdpi\icon.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="..\iOS\paddle.png">
+    <AndroidAsset Include="..\iOS\Resources\paddle.png">
       <Link>Assets\paddle.png</Link>
     </AndroidAsset>
   </ItemGroup>
