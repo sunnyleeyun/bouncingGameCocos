@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.bouncingGame.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.92D2E570-63DD-4AA0-B18E-3C29E752DEA8" />
   <MonoDevelop.Ide.Workbench ActiveDocument="bouncingGame/GameLayer.cs">
     <Files>
-      <File FileName="bouncingGame/GameLayer.cs" Line="21" Column="6" />
+      <File FileName="bouncingGame/GameLayer.cs" Line="22" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
